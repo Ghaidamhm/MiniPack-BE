@@ -27,10 +27,10 @@ Developers are building the future every day, you can explore their stories and 
 
 ## profile's features:
 
-CRUD user's Own information.
-Display user's list packages.
-Display Latest package created.
-Display Recommended package.
+- CRUD user's Own information.
+- Display user's list packages.
+- Display Latest package created.
+- Display Recommended package.
 
 # Stack
 
